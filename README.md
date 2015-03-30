@@ -23,3 +23,5 @@ Created primarily for the /r/keto community on Reddit.
 <li>Goto Custom Fitness Goal and enjoy text fields instead of dropdown so you can use numbers that aren't a multiple of 5</li>
 <li>Make sure you tab through each of the 3 macro fields (Carbs, Protein, Fat) so that it'll update things correctly everytime you visit this page to change other items.</li>
 </ul>
+
+Readme and idea stolen from https://github.com/Surye/mfp-keto-userscript. Thanks Surye for the inspiration!
